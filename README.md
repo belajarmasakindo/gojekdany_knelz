@@ -8,12 +8,11 @@ pkg install curl
 
 pkg install git
 
-git clone https://github.com/ipanxcool/alammhd
+git clone https://github.com/belajarmasakindo/gojekdany_knelz
 
-cd alammhd
+cd gojekdany_knelz
 
 php claim.php
 
 
-Biar lebih jelas bisa di lihat di 
-https://youtu.be/Emj9i3Q5J90
+
